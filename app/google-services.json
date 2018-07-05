@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "355648389271",
+    "firebase_url": "https://androidfirebasedbrealtim-df0a2.firebaseio.com",
+    "project_id": "androidfirebasedbrealtim-df0a2",
+    "storage_bucket": "androidfirebasedbrealtim-df0a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355648389271:android:c44678dee1dcb20f",
+        "android_client_info": {
+          "package_name": "com.example.msi.ps4nepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355648389271-ia21jt5ae7qeci15q7c0df3tndjigihd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msi.ps4nepal",
+            "certificate_hash": "aaf33f795b9bad54d128920f6da3481d821b986f"
+          }
+        },
+        {
+          "client_id": "355648389271-d2g07k9pipglqcvculfvpo6kbl1oetab.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "355648389271-d2g07k9pipglqcvculfvpo6kbl1oetab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdGheCTRKuZ6ZjmcjbYo1uL1YgrY-gjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355648389271-d2g07k9pipglqcvculfvpo6kbl1oetab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355648389271:android:2a49a489f9416035",
+        "android_client_info": {
+          "package_name": "dev.edmt.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355648389271-vpaoingdv19a7tffjsp1im0nqmc3omue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.edmt.firebasedemo",
+            "certificate_hash": "aaf33f795b9bad54d128920f6da3481d821b986f"
+          }
+        },
+        {
+          "client_id": "355648389271-d2g07k9pipglqcvculfvpo6kbl1oetab.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "355648389271-d2g07k9pipglqcvculfvpo6kbl1oetab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdGheCTRKuZ6ZjmcjbYo1uL1YgrY-gjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355648389271-d2g07k9pipglqcvculfvpo6kbl1oetab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
